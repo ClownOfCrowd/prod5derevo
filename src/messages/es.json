@@ -1,0 +1,158 @@
+{
+  "Common": {
+    "language": "Idioma",
+    "close": "Cerrar",
+    "menu": "Menú",
+    "requestQuote": "Solicitar presupuesto"
+  },
+  "Nav": {
+    "home": "Inicio",
+    "catalog": "Catalogo",
+    "products": "Productos",
+    "applications": "Aplicaciones",
+    "about": "Empresa",
+    "certifications": "Certificaciones",
+    "contact": "Contacto"
+  },
+  "Footer": {
+    "tagline": "Materiales de madera premium para arquitectura, interiorismo y produccion industrial.",
+    "pages": "Paginas",
+    "catalog": "Catalogo",
+    "products": "Productos",
+    "certifications": "Certificaciones",
+    "contact": "Contacto",
+    "contactTitle": "Departamento comercial"
+  },
+  "Cookies": {
+    "text": "Usamos cookies para mejorar la busqueda de productos y medir el rendimiento.",
+    "accept": "Aceptar",
+    "reject": "Rechazar"
+  },
+  "Catalog": {
+    "title": "Categorias de materiales",
+    "subtitle": "Catalogo estructurado para equipos de diseno y compras.",
+    "explore": "Explorar productos"
+  },
+  "Products": {
+    "title": "Listado de productos",
+    "subtitle": "Filtra por parametros tecnicos y encuentra el material adecuado rapidamente.",
+    "filters": "Filtros",
+    "woodType": "Tipo de madera",
+    "thickness": "Espesor",
+    "grade": "Calidad",
+    "price": "Precio",
+    "clear": "Limpiar",
+    "results": "Resultados",
+    "filterOpen": "Abrir filtros",
+    "filterClose": "Cerrar filtros",
+    "details": "Detalles",
+    "all": "Todos"
+  },
+  "ProductDetail": {
+    "back": "Volver al listado",
+    "overview": "Resumen",
+    "specs": "Especificaciones",
+    "benefits": "Ventajas clave",
+    "size": "Tamano",
+    "density": "Densidad",
+    "moisture": "Humedad",
+    "thickness": "Espesor",
+    "grade": "Calidad",
+    "applications": "Aplicaciones",
+    "requestQuote": "Solicitar presupuesto",
+    "bulkOrder": "Pedido mayorista"
+  },
+  "Applications": {
+    "title": "Guia de aplicaciones",
+    "subtitle": "Recomendaciones de material por escenario de uso y carga tecnica.",
+    "construction": {
+      "title": "Construccion",
+      "text": "Madera estructural y paneles tecnicos para sistemas portantes y fachadas.",
+      "detail": "Pensado para contratistas que necesitan tolerancias previsibles y calidad repetible por lote."
+    },
+    "furniture": {
+      "title": "Mobiliario",
+      "text": "Materiales estables y refinados para mobiliario a medida y produccion en serie.",
+      "detail": "Desde frentes premium hasta estructuras interiores con formatos listos para mecanizado."
+    },
+    "interior": {
+      "title": "Diseno interior",
+      "text": "Superficies decorativas y cortes de precision para interiores premium.",
+      "detail": "Texturas seleccionadas y tonos calibrados para hospitality, oficinas y vivienda."
+    },
+    "outdoor": {
+      "title": "Exterior",
+      "text": "Opciones termo-tratadas y resistentes a la humedad para terrazas y fachadas.",
+      "detail": "Materiales orientados a durabilidad para decks, fachadas y carpinteria exterior."
+    }
+  },
+  "About": {
+    "title": "Sobre Forstwerk",
+    "subtitle": "Calidad natural. Precision de ingenieria. Origen controlado y disciplina de produccion.",
+    "introOne": "Forstwerk actua como socio de material para arquitectos, fabricantes y compras que requieren calidad constante bajo plazos reales.",
+    "introTwo": "Nuestra cadena se basa en origen trazable, secado tecnico y procesos de corte de precision con tolerancias estables lote tras lote.",
+    "introThree": "Trabajamos para durabilidad real, no solo apariencia: cada tablero se selecciona por rendimiento frente a humedad, carga y acabado.",
+    "companyTitle": "Compania",
+    "companyText": "Suministramos materiales de madera a talleres, promotores e industria en toda Europa.",
+    "productionTitle": "Produccion",
+    "productionText": "Secado, clasificacion, corte y control de calidad con trazabilidad digital.",
+    "philosophyTitle": "Filosofia",
+    "philosophyText": "Primero el material, despues el proceso. Nos centramos en rendimiento real de proyecto.",
+    "principleOneTitle": "Abastecimiento de calidad",
+    "principleOneText": "Madera de origen certificado con trazabilidad por lote y proveedores estables.",
+    "principleTwoTitle": "Procesamiento de precision",
+    "principleTwoText": "Secado, calibrado y mecanizado alineados con tolerancias tecnicas y plazos de obra.",
+    "principleThreeTitle": "Durabilidad a largo plazo",
+    "principleThreeText": "Especificaciones preparadas para uso intensivo, cambios climaticos y mantenimiento real."
+  },
+  "Certifications": {
+    "title": "Certificaciones",
+    "subtitle": "Estandares verificados de sostenibilidad, seguridad estructural y origen.",
+    "description": "Paquete de certificaciones y auditorias disponible por envio o contrato marco.",
+    "certified": "Certificado"
+  },
+  "Contact": {
+    "title": "Contacto y presupuesto",
+    "subtitle": "Envie planos o requisitos y reciba una oferta comercial con plazos.",
+    "fastTitle": "Solicitud rapida",
+    "fastText": "Para proyectos urgentes indique volumen, fecha objetivo y ubicacion de entrega.",
+    "formTitle": "Formulario",
+    "name": "Nombre",
+    "company": "Empresa",
+    "email": "Correo electronico",
+    "phone": "Telefono",
+    "hours": "Lun-Vie / 08:00-18:00 CET",
+    "request": "Detalles del proyecto",
+    "send": "Enviar solicitud",
+    "sending": "Enviando...",
+    "success": "Gracias. Hemos recibido su solicitud y nuestro equipo comercial se pondra en contacto en breve.",
+    "required": "Complete nombre, correo y detalles del proyecto antes de enviar.",
+    "error": "Para pedidos mayoristas urgentes, indique volumen objetivo y semana de entrega preferida."
+  },
+  "Home": {
+    "tagline": "Calidad natural. Precision de ingenieria.",
+    "heroTitle": "Materiales de madera con caracter arquitectonico y disciplina industrial.",
+    "heroSubtitle": "Desde madera maciza premium hasta paneles tecnicos y cortes a medida para flujos B2B y calidad B2C.",
+    "heroPrimary": "Ver catalogo",
+    "heroSecondary": "Solicitar presupuesto",
+    "categoriesTitle": "Categorias principales",
+    "philosophyTitle": "El material como protagonista",
+    "philosophyText": "La plataforma combina presentacion tactil y claridad tecnica para acelerar decisiones de compra.",
+    "trustHeadline": "Confianza operativa",
+    "trustText": "Capacidad anual con puntos de control y documentacion de origen verificada.",
+    "featuredTitle": "Productos destacados",
+    "details": "Ver detalles",
+    "woodGuideTitle": "Como elegir la madera correcta",
+    "comparisonTitle": "Comparacion de materiales",
+    "technicalTitle": "Datos tecnicos",
+    "certificationsTitle": "Certificaciones y estandares de origen",
+    "testimonialsTitle": "Testimonios B2B",
+    "faqTitle": "Preguntas frecuentes",
+    "finalTitle": "Pedidos mayoristas y personalizados",
+    "finalText": "Necesitas medidas no estandar o suministro continuo? Nuestro equipo comercial disena un plan segun tu calendario.",
+    "tableType": "Tipo",
+    "tableDensity": "Densidad",
+    "tableDurability": "Durabilidad",
+    "tableBestUse": "Uso recomendado"
+  }
+}

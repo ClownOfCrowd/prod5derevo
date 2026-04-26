@@ -1,26 +1,90 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #edf2ef;
+  --surface: #f9fcfa;
+  --foreground: #1f2c2a;
+  --accent: #2f6158;
+  --secondary-accent: #c9d9d3;
+  --secondary: #5c6f6a;
+  --line: #d5e1dc;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-manrope);
+  --font-serif: var(--font-playfair);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html,
+body {
+  width: 100%;
+  overflow-x: clip;
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
+  background:
+    radial-gradient(circle at 18% 2%, #f7fbf8 0%, transparent 42%),
+    radial-gradient(circle at 82% 100%, #e2ece8 0%, transparent 36%),
+    var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-manrope), sans-serif;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-playfair), serif;
+  letter-spacing: -0.015em;
+  text-wrap: balance;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--accent) 30%, white);
+  color: var(--foreground);
+}
+
+@layer components {
+  .surface-card {
+    border: 1px solid var(--line);
+    background: var(--surface);
+    border-radius: 1rem;
+    box-shadow: 0 14px 34px rgba(24, 38, 36, 0.06);
+  }
+
+  .btn-primary {
+    border-radius: 9999px;
+    background: var(--accent);
+    color: white;
+    transition: background-color 220ms ease, transform 220ms ease, box-shadow 220ms ease;
+  }
+
+  .btn-primary:hover {
+    background: #274f48;
+    box-shadow: 0 10px 26px rgba(47, 97, 88, 0.3);
+    transform: translateY(-1px);
+  }
+
+  .btn-primary:active {
+    transform: translateY(0);
+  }
+
+  .btn-secondary {
+    border-radius: 9999px;
+    border: 1px solid var(--line);
+    background: color-mix(in srgb, white 88%, var(--secondary-accent));
+    color: var(--foreground);
+    transition: border-color 200ms ease, background-color 200ms ease;
+  }
+
+  .btn-secondary:hover {
+    border-color: var(--accent);
+    background: color-mix(in srgb, white 82%, var(--secondary-accent));
+  }
 }

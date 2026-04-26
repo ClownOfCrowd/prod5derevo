@@ -1,0 +1,158 @@
+{
+  "Common": {
+    "language": "Sprache",
+    "close": "Schliessen",
+    "menu": "Menü",
+    "requestQuote": "Angebot anfragen"
+  },
+  "Nav": {
+    "home": "Start",
+    "catalog": "Katalog",
+    "products": "Produkte",
+    "applications": "Einsatzbereiche",
+    "about": "Uber uns",
+    "certifications": "Zertifikate",
+    "contact": "Kontakt"
+  },
+  "Footer": {
+    "tagline": "Premium-Holzwerkstoffe fur Architektur, Innenausbau und industrielle Fertigung.",
+    "pages": "Seiten",
+    "catalog": "Katalog",
+    "products": "Produkte",
+    "certifications": "Zertifikate",
+    "contact": "Kontakt",
+    "contactTitle": "Vertrieb"
+  },
+  "Cookies": {
+    "text": "Wir verwenden Cookies, um die Produktsuche zu verbessern und Leistung zu messen.",
+    "accept": "Akzeptieren",
+    "reject": "Ablehnen"
+  },
+  "Catalog": {
+    "title": "Materialkategorien",
+    "subtitle": "Ein strukturierter Katalog fur Designteams und Einkauf.",
+    "explore": "Produkte ansehen"
+  },
+  "Products": {
+    "title": "Produktliste",
+    "subtitle": "Filtern Sie nach technischen Parametern und finden Sie schnell das passende Material.",
+    "filters": "Filter",
+    "woodType": "Holzart",
+    "thickness": "Dicke",
+    "grade": "Sortierung",
+    "price": "Preis",
+    "clear": "Zurucksetzen",
+    "results": "Ergebnisse",
+    "filterOpen": "Filter offnen",
+    "filterClose": "Filter schliessen",
+    "details": "Details",
+    "all": "Alle"
+  },
+  "ProductDetail": {
+    "back": "Zuruck zur Liste",
+    "overview": "Uberblick",
+    "specs": "Spezifikationen",
+    "benefits": "Wesentliche Vorteile",
+    "size": "Abmessungen",
+    "density": "Dichte",
+    "moisture": "Feuchte",
+    "thickness": "Dicke",
+    "grade": "Sortierung",
+    "applications": "Anwendungen",
+    "requestQuote": "Angebot anfragen",
+    "bulkOrder": "Grossbestellung"
+  },
+  "Applications": {
+    "title": "Anwendungsleitfaden",
+    "subtitle": "Materialempfehlungen nach Einsatzbereich und Lastprofil.",
+    "construction": {
+      "title": "Bau",
+      "text": "Konstruktionsholz und Platten fur tragende Systeme und Fassaden.",
+      "detail": "Fur Projekte mit klaren Toleranzvorgaben, planbarer Logistik und reproduzierbarer Chargenqualitat."
+    },
+    "furniture": {
+      "title": "Mobel",
+      "text": "Stabile und visuell hochwertige Werkstoffe fur Einzel- und Serienfertigung.",
+      "detail": "Von sichtbaren Premium-Fronten bis zu tragenden Korpusstrukturen in Serienprozessen."
+    },
+    "interior": {
+      "title": "Innenarchitektur",
+      "text": "Dekorative Flachen und prazise Zuschnitte fur hochwertige Innenraume.",
+      "detail": "Kuratiere Texturen und abgestimmte Farbtone fur Hospitality-, Office- und Wohnprojekte."
+    },
+    "outdoor": {
+      "title": "Outdoor",
+      "text": "Thermobehandelte und feuchtebestandige Optionen fur Terrassen und Fassaden.",
+      "detail": "Dauerhafte Materialkonzepte fur bewitterte Decks, Fassaden und Aussenausbau."
+    }
+  },
+  "About": {
+    "title": "Uber Forstwerk",
+    "subtitle": "Naturliche Qualitat. Technische Prazision. Kontrollierte Herkunft trifft Produktionsdisziplin.",
+    "introOne": "Forstwerk ist Materialpartner fur Architekturburos, Produzenten und Einkaufsteams, die verlassliche Holzqualitat unter realen Projektfristen erwarten.",
+    "introTwo": "Unsere Lieferkette verbindet nachvollziehbare Herkunft, Trocknungsdisziplin und prazise Bearbeitung mit stabilen Mass- und Feuchtetoleranzen.",
+    "introThree": "Wir arbeiten auf langfristige Haltbarkeit: jede Charge wird nach Performance in Montage, Nutzung und Oberflachenprozess bewertet.",
+    "companyTitle": "Unternehmen",
+    "companyText": "Wir beliefern Werkstatten, Entwickler und Industrieeinkauf in ganz Europa.",
+    "productionTitle": "Produktion",
+    "productionText": "Trocknung, Sortierung, Zuschnitt und Qualitatskontrolle mit digitaler Ruckverfolgbarkeit.",
+    "philosophyTitle": "Philosophie",
+    "philosophyText": "Material zuerst, Prozess danach. Wir liefern, was im Projektalltag funktioniert.",
+    "principleOneTitle": "Qualitat in der Herkunft",
+    "principleOneText": "Zertifizierte Quellen, nachvollziehbare Chargen und langfristige Partnerschaften im Einkauf.",
+    "principleTwoTitle": "Prazision in der Verarbeitung",
+    "principleTwoText": "Trocknung, Kalibrierung und Zuschnitt im Einklang mit technischen Spezifikationen.",
+    "principleThreeTitle": "Dauerhaftigkeit im Einsatz",
+    "principleThreeText": "Materialauswahl fur reale Belastung, Klimaschwankung und Lebenszykluspflege."
+  },
+  "Certifications": {
+    "title": "Zertifizierungen",
+    "subtitle": "Nachgewiesene Standards fur Nachhaltigkeit, Sicherheit und transparente Herkunft.",
+    "description": "Zertifikatspaket und Audit-Referenzen sind je Lieferung oder Rahmenvertrag verfugbar.",
+    "certified": "Zertifiziert"
+  },
+  "Contact": {
+    "title": "Kontakt & Angebot",
+    "subtitle": "Senden Sie Zeichnungen oder Anforderungen und erhalten Sie ein Angebot mit Lieferzeit.",
+    "fastTitle": "Schnellanfrage",
+    "fastText": "Bitte Menge, Zieltermin und Lieferort fur eine schnelle Bearbeitung angeben.",
+    "formTitle": "Anfrageformular",
+    "name": "Name",
+    "company": "Firma",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "hours": "Mo-Fr / 08:00-18:00 CET",
+    "request": "Projektangaben",
+    "send": "Anfrage senden",
+    "sending": "Wird gesendet...",
+    "success": "Vielen Dank. Ihre Anfrage ist eingegangen, unser Team meldet sich in Kurze.",
+    "required": "Bitte Name, E-Mail und Projektdetails vor dem Senden ausfullen.",
+    "error": "Fur eilige Grossauftrage bitte Zielmenge und gewunschte Lieferwoche angeben."
+  },
+  "Home": {
+    "tagline": "Naturliche Qualitat. Technische Prazision.",
+    "heroTitle": "Holzwerkstoffe mit architektonischem Charakter und industrieller Prazision.",
+    "heroSubtitle": "Von Massivholz bis Spezialzuschnitt: entwickelt fur B2B-Zuverlassigkeit und B2C-Qualitatsanspruch.",
+    "heroPrimary": "Katalog ansehen",
+    "heroSecondary": "Angebot anfragen",
+    "categoriesTitle": "Kernkategorien",
+    "philosophyTitle": "Material als Hauptdarsteller",
+    "philosophyText": "Die Plattform kombiniert taktile Darstellung mit technischer Klarheit fur schnellere Entscheidungen.",
+    "trustHeadline": "Vertrauen in Betrieb",
+    "trustText": "Jahreskapazitat mit Qualitatskontrollen und verifizierter Herkunft.",
+    "featuredTitle": "Ausgewahlte Produkte",
+    "details": "Details ansehen",
+    "woodGuideTitle": "Das richtige Holz wahlen",
+    "comparisonTitle": "Materialvergleich",
+    "technicalTitle": "Technische Daten",
+    "certificationsTitle": "Zertifizierungen und Herkunftsstandards",
+    "testimonialsTitle": "B2B Referenzen",
+    "faqTitle": "FAQ",
+    "finalTitle": "Gross- und Sonderauftrage",
+    "finalText": "Sie brauchen Sondermasse oder Langzeitversorgung? Unser Vertriebsteam plant entlang Ihres Produktionskalenders.",
+    "tableType": "Typ",
+    "tableDensity": "Dichte",
+    "tableDurability": "Dauerhaftigkeit",
+    "tableBestUse": "Beste Anwendung"
+  }
+}

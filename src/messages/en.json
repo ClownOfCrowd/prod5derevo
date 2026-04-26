@@ -1,0 +1,158 @@
+{
+  "Common": {
+    "language": "Language",
+    "close": "Close",
+    "menu": "Menu",
+    "requestQuote": "Request quote"
+  },
+  "Nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "products": "Products",
+    "applications": "Applications",
+    "about": "About",
+    "certifications": "Certifications",
+    "contact": "Contact"
+  },
+  "Footer": {
+    "tagline": "Premium timber materials for architecture, interiors and industrial production.",
+    "pages": "Pages",
+    "catalog": "Catalog",
+    "products": "Products",
+    "certifications": "Certifications",
+    "contact": "Contact",
+    "contactTitle": "Sales Office"
+  },
+  "Cookies": {
+    "text": "We use cookies to improve product discovery and measure performance.",
+    "accept": "Accept",
+    "reject": "Reject"
+  },
+  "Catalog": {
+    "title": "Material Categories",
+    "subtitle": "A structured catalog built for both design teams and procurement departments.",
+    "explore": "Explore products"
+  },
+  "Products": {
+    "title": "Product Listing",
+    "subtitle": "Filter by technical parameters and find specification-ready material quickly.",
+    "filters": "Filters",
+    "woodType": "Wood type",
+    "thickness": "Thickness",
+    "grade": "Grade",
+    "price": "Price",
+    "clear": "Clear",
+    "results": "Results",
+    "filterOpen": "Open filters",
+    "filterClose": "Close filters",
+    "details": "Details",
+    "all": "All"
+  },
+  "ProductDetail": {
+    "back": "Back to listing",
+    "overview": "Overview",
+    "specs": "Specifications",
+    "benefits": "Key benefits",
+    "size": "Size",
+    "density": "Density",
+    "moisture": "Moisture",
+    "thickness": "Thickness",
+    "grade": "Grade",
+    "applications": "Applications",
+    "requestQuote": "Request quote",
+    "bulkOrder": "Bulk order"
+  },
+  "Applications": {
+    "title": "Applications Guide",
+    "subtitle": "Material recommendations by usage scenario and technical load profile.",
+    "construction": {
+      "title": "Construction",
+      "text": "Structural timber and engineered panels for load-bearing systems and facades.",
+      "detail": "Specified for contractors needing predictable tolerances, dry stock and repeatable batch quality."
+    },
+    "furniture": {
+      "title": "Furniture",
+      "text": "Stable and visually refined materials for custom furniture and serial production.",
+      "detail": "From premium fronts to concealed carcass structures with machining-ready panel dimensions."
+    },
+    "interior": {
+      "title": "Interior Design",
+      "text": "Decorative surfaces and precision cuts for premium interior concepts.",
+      "detail": "Selected textures and calibrated tones for hospitality, office and residential design projects."
+    },
+    "outdoor": {
+      "title": "Outdoor",
+      "text": "Thermo-treated and moisture-resistant options for terraces and exterior envelopes.",
+      "detail": "Durability-focused material choices for weather-exposed decks, facades and outdoor joinery."
+    }
+  },
+  "About": {
+    "title": "About Forstwerk",
+    "subtitle": "Natural quality. Engineered precision. We combine controlled sourcing with production discipline.",
+    "introOne": "Forstwerk operates as a material partner for architects, manufacturers and procurement teams who need consistent timber quality under real production timelines.",
+    "introTwo": "Our supply chain is built around traceable forestry regions, kiln-drying discipline and precision cutting workflows that keep dimensional tolerances stable from lot to lot.",
+    "introThree": "We work for long-term durability, not visual effect alone: every board is selected for performance across humidity shifts, installation load and finishing compatibility.",
+    "companyTitle": "Company",
+    "companyText": "We supply timber materials to workshops, developers and industrial buyers across Europe.",
+    "productionTitle": "Production",
+    "productionText": "Our process includes drying, grading, cutting and quality control with digital traceability.",
+    "philosophyTitle": "Philosophy",
+    "philosophyText": "Material first, process second, promises third. We focus on what performs in real projects.",
+    "principleOneTitle": "Quality sourcing",
+    "principleOneText": "Certified origin timber with lot-level traceability and stable sourcing relationships.",
+    "principleTwoTitle": "Precision processing",
+    "principleTwoText": "Drying, calibration and machining aligned with engineering tolerances and project deadlines.",
+    "principleThreeTitle": "Long-term durability",
+    "principleThreeText": "Specifications tuned for real-world wear, climate shifts and lifecycle maintenance."
+  },
+  "Certifications": {
+    "title": "Certifications",
+    "subtitle": "Verified standards for sustainability, structural safety and transparent origin.",
+    "description": "Certification package and audit references are available per shipment or framework contract.",
+    "certified": "Certified"
+  },
+  "Contact": {
+    "title": "Contact & Quote",
+    "subtitle": "Send your drawings or requirements and receive a commercial offer with lead times.",
+    "fastTitle": "Fast Request",
+    "fastText": "For urgent projects, include quantity, target date and delivery location.",
+    "formTitle": "Quote Form",
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone",
+    "hours": "Mon-Fri / 08:00-18:00 CET",
+    "request": "Project details",
+    "send": "Send request",
+    "sending": "Sending...",
+    "success": "Thank you. Your quote request has been received and our team will contact you shortly.",
+    "required": "Please fill in name, email and project details before submitting.",
+    "error": "For urgent bulk orders, include target volume and preferred delivery week."
+  },
+  "Home": {
+    "tagline": "Natural quality. Engineered precision.",
+    "heroTitle": "Wood materials with architectural character and industrial discipline.",
+    "heroSubtitle": "From premium solid wood to engineered panels and custom cuts, built for B2B reliability and B2C quality expectations.",
+    "heroPrimary": "Browse catalog",
+    "heroSecondary": "Request quote",
+    "categoriesTitle": "Core categories",
+    "philosophyTitle": "Material as the main character",
+    "philosophyText": "Our platform balances tactile presentation with technical clarity, so teams can move from inspiration to procurement without friction.",
+    "trustHeadline": "Operational trust",
+    "trustText": "Annual output with quality checkpoints and verified source documentation.",
+    "featuredTitle": "Featured products",
+    "details": "View details",
+    "woodGuideTitle": "Choosing the right wood",
+    "comparisonTitle": "Product comparison",
+    "tableType": "Type",
+    "tableDensity": "Density",
+    "tableDurability": "Durability",
+    "tableBestUse": "Best use",
+    "technicalTitle": "Technical data",
+    "certificationsTitle": "Certifications and origin standards",
+    "testimonialsTitle": "B2B testimonials",
+    "faqTitle": "FAQ",
+    "finalTitle": "Bulk and custom orders",
+    "finalText": "Need non-standard dimensions or long-term supply? Our sales engineers build a delivery plan around your production calendar."
+  }
+}
